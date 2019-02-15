@@ -1,3 +1,12 @@
+# --- * --- * --- * ---
+# [ Map maker ]
+
+# Copyright (c) [2019] [fmakinosh]
+
+# This software is released under the MIT License.
+# https://github.com/fmakinosh/map_maker
+# --- * --- * --- * ---
+#
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.basemap import Basemap
