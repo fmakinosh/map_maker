@@ -12,7 +12,7 @@ The range is automatically shown in the sphere at the upper left.
 See the source file (make_map.py) for details.
 
 ## Lisence
-[MIT](https://github.com/fmakinosh/map_maker/master/LICENCE)
+[MIT](https://github.com/fmakinosh/map_maker/blob/master/LICENCE)
 
 ## Author
 [fmakinosh](https://github.com/fmakinosh)
