@@ -11,7 +11,7 @@ The range is automatically shown in the sphere at the upper left.
 
 See the source file (make_map.py) for details.
 
-## Lisence
+## License
 See [LICENSE](https://github.com/fmakinosh/map_maker/blob/master/LICENSE).
 
 ## Author
